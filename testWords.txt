@@ -1,0 +1,25 @@
+bake-peci
+fry-prziti
+grate-rendati
+boil-kuvati,prokuvavati
+slice-seci
+peel-guliti
+dice-seckati na kockice,seckati,seci na kockice
+roast-pecenje,peci,pecenje u rerni kad ima ulja
+simmer-krckati
+chop-seci,seci na komade
+sieve-sito,praskasta cediljka
+knead-mesiti
+score-zasecati
+stir-mesati
+shreds-sitni komadici,parcici
+cubes-kocke
+stubborn-tvrdoglav
+drowsy-pospan
+siesta-period za odmor,doba za odmor,period odmora
+fast asleep-cvrsto spavati,cvrsto spavanje
+daydreaming-sanjarenje,sanjariti
+snore-hrkanje
+iawn-zevati
+disrupted-poremeceno
+variety-razliciti,mnostvo
