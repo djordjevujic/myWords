@@ -2,7 +2,7 @@
 # @todo test with language selecting
 # @todo don't remove \n from the last line in file
 
-file_name = "4lesson.txt"
+file_name = "7lesson.txt"
 
 # print("1. Test kroz ceo fajl")
 print("Known words:")
@@ -28,7 +28,10 @@ test_file.seek(0)
 i = 1
 
 for line in test_file:
-    line = line[:-1] # Remove '\n' from line
+
+    if line.endswith("\n"):
+        line = line[:-1]  # Remove '\n' from line
+
     words_lst = line.split("-")
 
     if words_option == 1:
