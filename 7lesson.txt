@@ -13,7 +13,7 @@ eccentric-cudnjikavo
 squeesed-iscedjeno
 towel-peskir
 bathrobe-bade mantil
-folded-saviti,smotati
+fold-saviti,smotati
 enormous-veliko,glomazno
 deputy-zamenik
 valets-licni pomocnik

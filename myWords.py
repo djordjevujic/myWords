@@ -2,7 +2,7 @@
 # @todo test with language selecting
 # @todo don't remove \n from the last line in file
 
-file_name = "7lesson.txt"
+file_name = "7lessonPart1.txt"
 
 # print("1. Test kroz ceo fajl")
 print("Known words:")
